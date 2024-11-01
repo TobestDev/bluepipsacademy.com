@@ -3,6 +3,8 @@
 Bluepips Trading Academy
 Website: bluepipsacademy.com
 Mission: Empowering individuals with skills for personal and professional growth through accessible, expert-led courses in trading and financial education.
+### Home Page
+![Home Page](bluepipsacademy.com_.png)
 
 # Overview
 <hr>
