@@ -24,3 +24,10 @@ Frontend: HTML, CSS, JavaScript (Bootstrap framework for responsive design)
 Backend: PHP, MySQL (handling user authentication, course content management, and transaction processing)
 Version Control: Git for source code management and collaborative development
 Hosting: Deployed on bluepipsacademy.com for easy accessibility
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+Connect with Us
+For more information, visit our website or reach out via email at www.linkedin.com/in/onaolapo-tobi-b32701223.
+https://tobestdev.github.io/OTM_CV/
